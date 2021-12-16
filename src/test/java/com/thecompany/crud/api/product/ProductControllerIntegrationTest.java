@@ -96,7 +96,7 @@ class ProductControllerIntegrationTest {
 		
 		mockMvc.perform( MockMvcRequestBuilders
 				.delete(API_PATH+"/{id}", 1) )
-				.andExpect(status().isOk());		
+				.andExpect(status().isAccepted());		
 	}
 	
 }
