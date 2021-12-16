@@ -2,7 +2,7 @@
 
 # Requisites:
 
-Backend to allow CRUP operations in some entity like, for example, a retail's company "Product" to store products, list all of them, retrieve a product by its SKU, update it and delete it. Technology required: Java 11, Maven and Spring Boot.
+Backend to allow CRUD operations in some entity like, for example, a retail's company "Product" to store products, list all of them, retrieve a product by its SKU, update it and delete it. Technology required: Java 11, Maven and Spring Boot.
 
 # Prerequisites
 
